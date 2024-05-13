@@ -1,5 +1,11 @@
 # addresstonoirformat
 
+## 0.1.3
+
+### Patch Changes
+
+- 675f7c1: remove console.log
+
 ## 0.1.2
 
 ### Patch Changes
