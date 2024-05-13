@@ -1,5 +1,11 @@
 # addresstonoirformat
 
+## 0.1.4
+
+### Patch Changes
+
+- 366f144: config for public release"
+
 ## 0.1.3
 
 ### Patch Changes
