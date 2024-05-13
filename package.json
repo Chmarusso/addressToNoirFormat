@@ -1,0 +1,14 @@
+{
+  "name": "addresstonoirformat",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Chmaro",
+  "license": "MIT",
+  "description": "Convert EVM address to Noir format.",
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
+}
